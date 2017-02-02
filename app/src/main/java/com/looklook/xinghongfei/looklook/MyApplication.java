@@ -4,7 +4,7 @@ import android.app.Application;
 import android.content.Context;
 import android.support.v7.app.AppCompatDelegate;
 
-import com.looklook.xinghongfei.looklook.activity.BaseActivity;
+import com.looklook.xinghongfei.looklook.Activity.BaseActivity;
 
 import java.util.LinkedList;
 import java.util.List;

@@ -1,9 +1,8 @@
-package com.looklook.xinghongfei.looklook.activity;
+package com.looklook.xinghongfei.looklook.Activity;
 
 import android.os.Bundle;
 import android.os.PersistableBundle;
 import android.support.v7.app.AppCompatActivity;
-
 import com.looklook.xinghongfei.looklook.MyApplication;
 import com.looklook.xinghongfei.looklook.util.common.UIUtils;
 
@@ -13,6 +12,7 @@ import com.looklook.xinghongfei.looklook.util.common.UIUtils;
 public class BaseActivity extends AppCompatActivity {
 
     protected final String TAG = getClass().getSimpleName();
+
     public static BaseActivity activity;
 
     @Override

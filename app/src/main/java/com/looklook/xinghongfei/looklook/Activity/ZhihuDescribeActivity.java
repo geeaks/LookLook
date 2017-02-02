@@ -1,4 +1,4 @@
-package com.looklook.xinghongfei.looklook.activity;
+package com.looklook.xinghongfei.looklook.Activity;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
